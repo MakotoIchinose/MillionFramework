@@ -1,0 +1,4 @@
+
+[submodule "Plugins/KawaiiPhysics"]
+	path = Plugins/KawaiiPhysics
+	url = https://github.com/TheHoodieGuy02/KawaiiPhysics
