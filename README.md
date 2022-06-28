@@ -40,7 +40,6 @@ You are welcome to contribute to this project, by forking and making pull reques
 - Don't clutter MLTD_V2 folder with unnecessary assets.
 - Assets must adhere to the naming convention
 - Make sure you don't include assets and plugins sourced from paid sources
-- Assets should be kep
 - Assets in MLTD_Outfits have to be from the game - altered outfits or those sourced from other games are not allowed to be pushed.
 - If you want to modify the script in Blender, modify the source in `SourcePython` folder. Don't alter it inside Blender text editor and keeping the changes there.
 - .uproject's EngineAssociation GUID should be kept intact.
