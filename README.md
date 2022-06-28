@@ -12,7 +12,7 @@ This project uses Unreal Engine 4.27, with UE 5.1 branch coming soon once it's f
 ## Requirements
 - Due to custom shading model used in this project, specifically custom anime shading model, a modified Unreal Engine 4.27 is required, of which you can [grab it here](https://github.com/TheHoodieGuy02/UnrealEngine).
   - It is a modified Unreal Engine 4.27 used for the bigger sister original game project.
-  - The page included a prebuilt (albeit slightly outdated) version in the released section. Do note that the prebuilt editor is devoid of gameplay code and will not compile to UE4Game. If you want to make fan game, consider building the engine source yourself.
+  - The page included a [prebuilt (albeit slightly outdated) version in the released section](https://github.com/TheHoodieGuy02/UnrealEngine/releases/tag/machinima-editor-only). Do note that the prebuilt editor is devoid of gameplay code and will not compile to UE4Game. If you want to make fan game, consider building the engine source yourself.
   - If you see 404 page, [read this](https://www.unrealengine.com/en-US/ue-on-github) to get access to Unreal Engine source code.
   - Shall you don't want to use this customized build, you can remove the materials and remade them in vanilla UE4.
 - Visual Studio 2019 or newer to build C++ classes.
